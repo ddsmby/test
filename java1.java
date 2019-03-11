@@ -1,1 +1,5 @@
-public calss mian{}
+class employee{
+public calss mian{
+
+}
+}
